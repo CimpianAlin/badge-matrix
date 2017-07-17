@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "engines": {
     "node": "7.10.1",
-    "npm": "3.10.x"
+    "npm": "4.2.0"
   },
   "scripts": {
     "add-font": "./scripts/add-font.sh",
