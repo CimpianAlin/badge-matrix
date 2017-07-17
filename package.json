@@ -4,7 +4,7 @@
   "description": "More advanced badges for your projects using Travis or Sauce Labs.",
   "main": "lib/index.js",
   "engines": {
-    "node": "6.5.x",
+    "node": "7.10.1",
     "npm": "3.10.x"
   },
   "scripts": {
